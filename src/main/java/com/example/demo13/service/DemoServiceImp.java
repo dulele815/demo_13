@@ -14,6 +14,6 @@ public class DemoServiceImp implements DemoService {
 
     @Override
     public void DoSome() {
-        System.out.println("hello world");
+        System.out.println("hello world !");
     }
 }
