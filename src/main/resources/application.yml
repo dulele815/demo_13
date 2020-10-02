@@ -1,0 +1,17 @@
+server:
+  port: 8090
+
+
+
+person:
+  lastName: waixingren
+  age: 18
+  boss: false
+  birth: 2020/2/2
+  maps: {k1: k1, v1: 2}
+  lists:
+    - lisi
+    - zhangsan
+  dog:
+    name: xiaogou
+    age: 2
