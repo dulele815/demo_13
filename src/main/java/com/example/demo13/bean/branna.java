@@ -6,4 +6,5 @@ public class branna {
     private String sex;
     private String id;
     private String size;
+    private String addr;
 }
