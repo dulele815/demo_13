@@ -13,4 +13,5 @@ public class Apple implements Serializable {
 
     }
 
+    public String bbbb;
 }
